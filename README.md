@@ -28,7 +28,11 @@ gh repo clone vishnu1100/Netflix_template
 3. Launch the `index.html` file in a web browser to view the Netflix home page.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+   
 
+## Demo
+
+Check out the live demo  [here](https://vishnu1100.github.io/Netflix_template/).
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
